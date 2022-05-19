@@ -10,5 +10,6 @@ let app = new Vue( {
         el: '#root',
         data:{
             imprecazione: 'sin da ciappu ri struppiu'
+            
         }
 })
