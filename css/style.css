@@ -1,11 +1,9 @@
 .container{
     margin:auto;
     max-width: 1000px;
+    text-align: center;
 }
 .red{
     color: red;
     text-transform: uppercase;
-}
-input{
-    width: 200px;
 }
