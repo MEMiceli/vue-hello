@@ -1,0 +1,11 @@
+.container{
+    margin:auto;
+    max-width: 1000px;
+}
+.red{
+    color: red;
+    text-transform: uppercase;
+}
+input{
+    width: 200px;
+}
